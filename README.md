@@ -91,7 +91,7 @@ Typical performance:
 ```
 Breast-Cancer-MLP-End2End/
 │
-├── MPL_Cancer_dataset.ipynb
+├── MPL_On_Cancer_dataset.ipynb
 ├── README.md
 ├── requirements.txt
 ```
